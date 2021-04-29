@@ -19,5 +19,5 @@ It was developed during the event [Next Level Week #5 (NLW#05)](https://nextleve
 - Dark Theme
 - Use Electron 
 
-## 👓 See the Project
+## 👓 View the Project
 [Click here to open it on Vercel](https://podcastr-three-liart.vercel.app/)
